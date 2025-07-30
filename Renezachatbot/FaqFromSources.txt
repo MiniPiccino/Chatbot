@@ -1,0 +1,392 @@
+Certainly, I can provide a comprehensive FAQ document drawing on the information from the sources and our conversation history. This document aims to enhance your understanding of key concepts in design, product innovation, business models, and service business innovation.
+
+Here is a 100-question FAQ document, structured into logical sections for clarity and ease of navigation:
+
+***
+
+## Frequently Asked Questions on Design and Business Innovation
+
+### Section 1: Core Concepts of Design and Innovation
+
+1.  **What is the fundamental definition of "design"?**
+    Designing, in its broadest sense, is fundamentally about "changing existing situations into preferred ones". It is a way of thinking and acting that aims at understanding and intervening in the world around us through the design of products.
+
+2.  **How do design methods help a designer?**
+    Design methods are not recipes for success, but they help bring structure to thinking and actions. They remind designers of essential steps, promote efficient work, help achieve goals without too many detours, and facilitate communication within a team or with a client.
+
+3.  **Are design methods universally applicable?**
+    While many methods can be used across multiple domains, they are often intended for a specific class of activities, such as product design, service design, or architecture. However, a method itself is an abstract description that enables a designer to focus their mind on certain activities and information in a specific order.
+
+4.  **What is the relationship between product design and functions?**
+    Products are designed and made because of their functions. To design a product is to conceive its use and find a suitable form (geometrical and physico-chemical) for the product and its parts so that the intended function(s) can be fulfilled.
+
+5.  **How does a product's function relate to user needs and values?**
+    A function is the intended ability of a product to change something in its environment. By fulfilling functions, products may satisfy needs and realise values, such as aesthetical or economical values.
+
+6.  **What is the "kernel of the design problem" according to the sources?**
+    The kernel of designing is reasoning from function to form and use. Designers must create the form and its use as a possibility, rather than merely predicting properties. A design cannot be deduced from a problem description, function, or performance specification; it must be created through intuition and creativity.
+
+7.  **What are "Product-Service Systems" (PSSs)?**
+    A Product-Service System (PSS) is a business model that integrates products and services. It is often seen as a means for achieving sustainability and allows firms to create new sources of added value and competitiveness.
+
+8.  **What are the main categories of PSSs?**
+    PSSs are broadly categorised into:
+    *   **Product-oriented services**: The provider sells a product and offers services during its use phase, e.g., maintenance contracts or take-back agreements.
+    *   **Use-oriented services**: Ownership of the product remains with the provider, and the user pays a regular fee for its use, e.g., product lease or renting.
+    *   **Result-oriented services**: The provider agrees to deliver a result, with no pre-determined product involved, allowing complete freedom in delivery methods, e.g., providing a "pleasant climate" rather than selling cooling equipment.
+
+9.  **Why do companies adopt PSS models?**
+    Companies adopt PSS models when they are key to competitiveness and value creation. They can offer tangible value through more efficient use of materials and human resources, and intangible value by creating unique experiences.
+
+10. **What is "Design Thinking"?**
+    Design Thinking is a human-centred approach to innovation. It involves modes such as Empathize, Define, Ideate, and Test, which are iterative and non-linear.
+
+11. **What is the significance of a "beginner's mindset" in design?**
+    Adopting a beginner's mindset means putting aside preconceived notions and biases, observing and engaging users without judgment, questioning everything, and striving for wonder and curiosity. This helps build real empathy.
+
+12. **What is a "business model" in this context?**
+    A business model is understood as a blueprint of a company's logic of earning money. It translates a company's strategy into value propositions, customer relations, and value networks. It is a holistic concept that embraces elements like pricing mechanisms, customer relationships, and partnering.
+
+13. **How does the business model relate to strategy and process models?**
+    The business model is situated on a higher layer of abstraction than process models. It translates strategy into a conceptual blueprint, while process models detail the "how-to". Strategy, business models, and process models address similar problems but on different business layers.
+
+14. **What is a "Business Model Ontology"?**
+    A Business Model Ontology is a rigorous conceptual model for describing business models, defining their terms, concepts, components, and their relationships. It aims to provide a shared understanding and common language for stakeholders to communicate business logic.
+
+### Section 2: Phases and Activities in the Design Process
+
+15. **What is the "analysis phase" in design, and why is it important?**
+    The analysis phase involves extensively analysing the problem, its stakeholders, and the facts and values involved [DDG, p. 6, 126]. It is generally beneficial to start here, as it's one of the first steps in a design project, serving to formulate a design goal [DDG, p. 127, 76].
+
+16. **What does "empathize" mean in Design Thinking?**
+    Empathize is the foundation of human-centred design, focusing on understanding users and their values. It involves observing users, engaging with them through interviews, and immersing oneself in their experiences.
+
+17. **How does one conduct an effective interview for empathy?**
+    To interview for empathy, you should:
+    *   **Ask why** (even if you think you know the answer).
+    *   **Never say "usually"**: Instead, ask about specific occurrences, e.g., "Tell me about the last time you...".
+    *   **Encourage stories**: Stories reveal how users think.
+    *   **Look for inconsistencies** between what users say and do.
+    *   **Pay attention to nonverbal cues**.
+    *   **Don't be afraid of silence** to allow reflection and deeper responses.
+    *   **Ask questions neutrally** and don't suggest answers.
+
+18. **What are "extreme users" and why engage with them?**
+    Extreme users are individuals whose amplified needs and work-arounds can highlight meaningful needs not obvious from average users. Engaging with them can spark inspiration and uncover insights.
+
+19. **How can the "What? How? Why?" tool be used in observation?**
+    "What? How? Why?" helps reach deeper levels of observation by moving from concrete observations (What is the user doing?) to understanding (How are they doing it? - describing effort/experience) and finally to interpretation (Why are they doing it? - guessing motivations/emotions).
+
+20. **What is a "Journey Map" and its purpose?**
+    A journey map is a tool to dissect a process into its moving parts to illuminate areas of potential insights. It helps systematically think about detailed steps or milestones in a user's experience.
+
+21. **What is the "define" mode in Design Thinking?**
+    The define mode is where you unpack empathy findings into user needs and insights, then scope a meaningful challenge. It culminates in an actionable problem statement, called a Point of View (POV).
+
+22. **What characterises a "spectacular Point of View (POV)"?**
+    A spectacular POV preserves emotion, includes strong language, uses sensible wording, includes a strong insight, and generates many possibilities for solutions without dictating a specific one.
+
+23. **What are "How Might We (HMW)" questions?**
+    HMW questions are short, generative questions that launch ideation. They should be broad enough to invite a wide range of solutions, but narrow enough to provide helpful boundaries.
+
+24. **What are "Design Guidelines" or "Design Directives"?**
+    These are written statements that articulate a strategy for solving a design challenge, independent of a specific solution. They translate user needs and insights into actionable design directives, often by reframing user observations into solution-oriented statements.
+
+25. **What is "product planning" and "strategy formulation" in the product innovation process?**
+    Product planning is the first part of the product innovation process, where decisions are made about what products will be developed and when [DDG, p. 16]. This is also referred to as strategy formulation, involving analysis of the present situation, internal strengths/weaknesses, and external opportunities/threats [DDG, p. 23-25].
+
+26. **What is "ideate" in Design Thinking?**
+    Ideate is the mode for generating radical design alternatives. Its goal is to explore a wide solution space, focusing on both a large quantity and broad diversity of ideas.
+
+27. **What are the principles of effective "brainstorming"?**
+    Brainstorming aims to generate as many ideas as possible without judgment. Key principles include:
+    *   **Freewheeling**: Wild ideas are welcomed.
+    *   **Quantity over quality**: Strive for a high rate of association.
+    *   **Combine and improve ideas**: Build upon others' ideas.
+    *   **Postpone judgment**: Evaluation comes later.
+
+28. **What are "How To's (H2's)" in ideation?**
+    "How to's" are problem statements phrased dynamically as "How to..." questions. They stimulate creativity by reframing problems from different points of view and generating a wide variety of problem descriptions.
+
+29. **What is a "Mind Map"?**
+    A Mind Map is a graphical representation of ideas and aspects around a central theme, showing how they are related. It helps to structure thoughts, gain overview, and systematically unpack abstract notions.
+
+30. **What is "Synectics" and how does it generate ideas?**
+    Synectics is a comprehensive creative procedure that uses **analogies** to estrange participants from the original problem statement and inspire new solutions. It includes techniques for problem analysis, idea generation, and selection.
+
+31. **What is "Function Analysis"?**
+    Function analysis specifies what a product should do and then infers what its parts should do. It helps designers distance themselves from known products and components to consider the intended actions of the new product.
+
+32. **What is a "Morphological Chart"?**
+    A morphological chart is a matrix method to generate ideas in an analytical and systematic manner. It lists functions of a product as columns and various components or solutions for each function in rows, allowing for systematic combination.
+
+33. **What is the "Fish Trap Model" in concept generation?**
+    The "Fish Trap Model" describes the form-creation phase, distinguishing three phases: structural, formal, and material. In each phase, variants are generated, categorised, and developed into concepts.
+
+34. **What is "prototyping" in design, and why is it important?**
+    Prototyping involves creating tangible representations of ideas to gather feedback, refine solutions, and learn about users. Prototypes can be low-resolution and are tested iteratively in the user's context.
+
+35. **What are the different types of prototypes mentioned?**
+    *   **Proof-of-concept prototypes (FUMO's)**: Verify if technical principles work, often simplified.
+    *   **Dummies (mock-ups or VISOs)**: 1:1 scale models showing external characteristics only.
+    *   **Textual concepts**: Descriptions of product ideas.
+    *   **Pictographic concepts**: Visual representations of ideas, like sketches.
+    *   **User-driven prototypes**: Created by users themselves to reveal assumptions and desires.
+    *   **Wizard of Oz prototypes**: Fake functionality with human intervention to create an illusion of functionality.
+
+36. **What is the "test" mode in Design Thinking?**
+    Testing is an iterative mode where low-resolution prototypes are placed in the appropriate context of the user's life to gather feedback, refine solutions, and continue learning. The mindset is to prototype as if you're right, but test as if you know you're wrong.
+
+37. **How is "Product Usability Evaluation" conducted?**
+    Usability testing helps understand the quality of designs according to usage. It primarily uses observation techniques where users complete tasks while thinking aloud, or discussing their motivation with a researcher. It involves creating scenarios, scripted instructions, and using various test instruments.
+
+38. **What is the "Feedback Capture Matrix"?**
+    A Feedback Capture Matrix is a tool for real-time feedback on presentations and prototypes. It divides feedback into four categories: likes (+), constructive criticism (delta), questions (?), and new ideas (light bulb).
+
+39. **What is the "I Like, I Wish, What If" (IL/IW/WI) feedback tool?**
+    IL/IW/WI is a simple tool to encourage open feedback from a group. Team members express "likes," "wishes," or "what ifs" as succinct headlines.
+
+### Section 3: Business Model Ontology Components
+
+40. **What are the four main "pillars" of the business model ontology?**
+    The business model ontology identifies four main areas:
+    1.  **Product**: What the firm offers its customers.
+    2.  **Customer Interface**: How the firm gets in touch with customers and builds relationships.
+    3.  **Infrastructure Management**: How the company efficiently performs infrastructural issues and manages its network.
+    4.  **Financial Aspects**: The revenue model, cost structure, and business model sustainability.
+
+41. **What are the nine interrelated "building blocks" of the business model ontology?**
+    These nine elements are the core of the ontology: **Value Proposition, Target Customer, Distribution Channel, Relationship, Value Configuration, Capability, Partnership, Cost Structure, and Revenue Model**.
+
+42. **What is a "Value Proposition" in the business model ontology?**
+    The Value Proposition defines the bundles of products and services offered to fulfil customer needs and how a firm differentiates itself from competitors. It is expressed as statements of benefits delivered by the firm.
+
+43. **How does the business model ontology analyse "Value Proposition"?**
+    The ontology proposes a conceptual approach that allows firms to identify and map their existing value proposition, compare it to competitors, and facilitate value innovation. This includes attributes like **REASONING** (Use, Risk, Effort) and **VALUE LEVEL** (Me-Too, Innovative Imitation, Excellence, Innovation).
+
+44. **What are the "REASONING" categories for value creation in a Value Proposition?**
+    Value is created through:
+    *   **Use**: Value derived from the actual consumption of products/services.
+    *   **Risk**: Value created by reducing customer risks (e.g., financial fear, product performance issues).
+    *   **Effort**: Value created by making customers' lives easier, reducing search, evaluation, acquisition, maintenance, or training costs.
+
+45. **What are the stages of the "VALUE LIFE CYCLE" for a Value Proposition?**
+    A value proposition should be studied over its entire life cycle, which includes:
+    *   **Value Creation** (e.g., customisation).
+    *   **Value Purchase** (e.g., buying experience, fulfilment).
+    *   **Value Use** (e.g., consumption of products/services).
+    *   **Value Renewal** (e.g., software updates, adding new features).
+    *   **Value Transfer** (e.g., disposal of old products, selling used items).
+
+46. **What is a "Target Customer" in the business model ontology?**
+    The Target Customer specifies the distinct customer segments a company aims to serve.
+
+47. **What is a "Distribution Channel" in the business model ontology?**
+    A Distribution Channel describes how a company delivers its value proposition to its target customers, either directly (e.g., sales force, website) or indirectly (e.g., resellers, brokers, cybermediaries).
+
+48. **How does ICT impact distribution channels?**
+    ICT, especially the internet, has a great potential to complement existing channels rather than cannibalise them. It has opened new markets for intermediaries (cybermediaries) and transformed simple distribution channels into value-adding components.
+
+49. **What is a "Channel LINK" and its role?**
+    A Channel LINK describes a part of a firm's channel and illustrates specific marketing tasks. It can contribute to value creation through use, reducing risk, or reducing customer efforts, and is part of the Customer Buying Cycle.
+
+50. **What are the phases of the "Customer Buying Cycle" that a channel LINK fulfils?**
+    The Customer Buying Cycle reflects all possible contact points between a supplier and a customer. It is divided into four phases:
+    *   **Awareness** (e.g., promotions).
+    *   **Evaluation** (e.g., collecting product/price information, sales force advice).
+    *   **Purchase** (e.g., actual transaction and fulfilment).
+    *   **After Sales** (e.g., maintenance, support).
+
+51. **What is a "Customer Relationship" in the business model ontology?**
+    Customer Relationship outlines the types of relationships a company establishes and maintains with its customer segments. This includes acquisition, retention, and add-on selling efforts.
+
+52. **What are "MECHANISM" types in Customer Relationship?**
+    Mechanisms refer to the approaches for building customer relationships, such as:
+    *   **Acquisition**: Strategies to acquire new customers.
+    *   **Retention**: Strategies to retain existing customers, e.g., loyalty programs, switching costs.
+    *   **Trust**: Mechanisms to build trust, essential in increasingly virtual transactions.
+    *   **Brand**: Constitutes a pivotal resource for building relationships and competitive advantage.
+
+53. **What is "Value Configuration" in the business model ontology?**
+    Value Configuration illustrates the arrangement of activities and resources necessary to create and deliver value. It shows all activities and their links to create value for the customer.
+
+54. **What are the three basic "CONFIGURATION TYPEs" in Value Configuration?**
+    1.  **Value Chain**: Sequential transformation of inputs into products, typical for manufacturing.
+    2.  **Value Shop**: Cyclical process of resolving customer problems, common for service providers.
+    3.  **Value Network**: Mediating logic, linking clients who are interdependent, typical for intermediaries.
+
+55. **What is a "Capability" in the business model ontology?**
+    A Capability describes the ability to execute a repeatable pattern of actions. A firm needs capabilities to offer its value proposition, and these are based on its resources.
+
+56. **What types of "RESOURCEs" are distinguished in the ontology?**
+    Resources are inputs into the value-creation process and the source of capabilities. They include:
+    *   **Tangible resources**: Plants, equipment, cash reserves.
+    *   **Intangible resources**: Patents, copyrights, reputation, brands, trade secrets.
+    *   **Human resources**: People needed to create value.
+
+57. **What is a "Partnership" in the business model ontology?**
+    Partnership defines voluntarily initiated cooperative agreements with other companies to jointly carry out projects or specific activities, coordinating capabilities, resources, and activities.
+
+58. **What are the common "REASONING" motivations for partnerships?**
+    Companies engage in partnerships for:
+    *   **Optimisation and economies of scale**: Outsourcing, shared infrastructure, leveraging partner's economies of scale or specialized knowledge.
+    *   **Reduction of risk and uncertainty**: Sharing risks, gaining access to new markets.
+    *   **Acquisition of resources**: Gaining access to specific resources or competencies.
+
+59. **What is a "Cost Structure" in the business model ontology?**
+    Cost Structure represents all monetary costs incurred by the company in operating its business model. It is composed of "ACCOUNTs" which are registries of expenditures.
+
+60. **What is a "Revenue Model" in the business model ontology?**
+    The Revenue Model describes the way a company makes money, including various revenue streams and pricing mechanisms. It can be composed of one or several "REVENUE STREAM AND PRICING" elements.
+
+61. **What are the "STREAM TYPEs" of revenue generation?**
+    Revenue streams can be generated through:
+    *   **Selling**: Giving away ownership aspects for money.
+    *   **Lending**: Giving something for a period, expecting its return (e.g., money loans).
+    *   **Licensing**: Granting official permission to use or sell patented/protected property for a fee.
+    *   **Transaction Cut**: Taking a percentage of a transaction.
+    *   **Advertising**: Generating income from advertising services.
+
+62. **What are "PRICING METHODs" in the revenue model?**
+    Pricing methods include:
+    *   **Fixed**: A set price.
+    *   **Differential**: Different prices for different customers (e.g., based on willingness to pay).
+    *   **Market**: Price determined by market dynamics.
+
+### Section 4: Advanced Design Methods and Evaluation
+
+63. **What is "Vision in Product Design (ViP)"?**
+    ViP is a design approach where designing always starts with the selection of a set of starting points, ideas, observations, beliefs, or obsessions that will determine the product to be designed. It makes the selection of starting points explicit, leading to innovative and surprising products.
+
+64. **What is the purpose of the "ZEN Design Method"?**
+    The ZEN method encourages designers to not focus on the desired product initially, but instead to focus on important desired qualities (material and social interaction). It then shifts the design brief to a more abstract level, identifying user rituals and creating richer scenarios.
+
+65. **What is the "MSD Approach" in design?**
+    The MSD (Meaning-driven design) approach takes the **expression of the object** (e.g., eagerness, cheerfulness) as the design starting point. It maps how a particular concept can be translated into perceivable product aspects, linking conceptual descriptors to concrete, sensory product qualities.
+
+66. **What is "EcoDesign" and its purpose?**
+    EcoDesign aims to minimise the environmental impact of new products throughout their life cycle. Tools like the EcoDesign Checklist and EcoDesign Strategy Wheel help identify environmental bottlenecks and select strategies for improvement.
+
+67. **What is "Cradle-to-Cradle" (C2C) in EcoDesign?**
+    Cradle-to-Cradle is an approach where all materials in a product are designed to become part of either a biological nutrient cycle (biodegradable) or a technological nutrient cycle (reused indefinitely) at the end of the product's life. It's about designing out waste ("waste equals food").
+
+68. **What is a "Process Tree" in problem analysis?**
+    A Process Tree is a schematic diagram of the processes a product goes through during its life cycle (e.g., manufacturing, distribution, use, disposal). It forces designers to systematically think through all subprocesses and identify requirements.
+
+69. **How is the "WWWWWH" method used for problem analysis?**
+    The "Who, What, Where, When, Why, and How?" (WWWWWH) method systematically deconstructs a preliminary problem statement by asking a multitude of questions about stakeholders, facts, and values. This helps gain clarity and prioritise information.
+
+70. **What is a "Problem Definition" in design?**
+    A problem definition is a structured description of a design problem, usually formulated at the end of the problem analysis phase. It explicitly states the problem, desired goal situation, avoidable side effects, and admissible actions.
+
+71. **What are "Requirements" in product design?**
+    Requirements are objectives that any design alternative must meet. They are statements about the intended situations of the design alternative and can be specific to a product/use/user group, or wider standards.
+
+72. **What is a "Design Specification" (Criteria)?**
+    The Design Specification consists of a number of requirements, serving as a list of objectives or goals that a product must comply with to be considered "good". It should be constantly updated throughout a design project.
+
+73. **How does one generate a comprehensive list of requirements?**
+    To generate requirements, designers can take into account three viewpoints:
+    *   **Stakeholders**: Aims and preferences of all people affected.
+    *   **Aspects involved**: General issues like performance, environment, maintenance, aesthetics, materials, packaging.
+    *   **Product life cycle**: Requirements arising from processes like manufacturing, use, and disposal. Checklists can also be used.
+
+74. **What is a "Design Vision"?**
+    An explicit vision on the product to be designed provides a design direction and helps steer the product design process. It should be well-founded by arguments, theories, and facts, and be shareable and inspiring.
+
+75. **What is "Product Simulation and Testing"?**
+    Product simulation and testing involve constructing models (physical, graphical, mathematical) to evaluate the "quality" and functioning of a design, and gain insight through predictions. It confirms whether a particular aspect or feature works as intended.
+
+76. **What is "Product Concept Evaluation"?**
+    Product concept evaluations are aimed at validating important design decisions, often involving the choice between two or three product concepts. They seek user feedback on concepts, typically using textual, pictographic, or mock-up prototypes.
+
+77. **What is "Product Usability Evaluation"?**
+    Product usability evaluation, or usability testing, helps understand the quality of designs according to usage, defined as effectiveness, efficiency, and satisfaction. It primarily uses observation techniques where users perform tasks while observers take notes.
+
+### Section 5: Decision and Selection Methods
+
+78. **What is the "C-Box" method for idea selection?**
+    The C-Box is a 2x2 matrix used to generate an overview from a multitude of early ideas. It typically uses "innovativeness" and "feasibility" as criteria to quickly judge and cluster ideas into four quadrants.
+
+79. **What are "Itemised Response" and "PMI" methods?**
+    *   **Itemised Response**: Used to judge ideas by listing positive (+) and negative (-) features. It helps elaborate on positives and improve negatives.
+    *   **PMI (Plus, Minus, Interesting)**: A quick, systematic tool to evaluate early ideas by listing positive (+), negative (-), and interesting (I) aspects.
+
+80. **What is the "vALUe" method?**
+    The vALUe method (Advantage, Limitation, Unique Elements) is an inventorying method used to quickly and systematically evaluate a large set of early design ideas or principal solutions.
+
+81. **What is a "Harris Profile"?**
+    A Harris Profile (or New Product Profile) is a graphic representation to compare and select design concepts based on strengths and weaknesses. It uses a four-point scale matrix (-2, -1, +1, +2) for various criteria.
+
+82. **What is the "Datum Method" for concept evaluation?**
+    The Datum Method evaluates design alternatives by setting one alternative as a "datum" and comparing others to it using a scoring system (+ = better, - = worse, s = similar) for each criterion.
+
+83. **What is the "Weighted Objectives Method"?**
+    This method compares design concepts by assigning weights to criteria based on their importance, then scoring how each concept meets each criterion (typically 1-10). An overall value per concept is calculated by summing weighted scores, allowing direct comparison.
+
+### Section 6: Business Model Innovation Strategies
+
+84. **What are "Forerunner" companies and how do they innovate their service business models?**
+    Forerunner companies innovate by moving beyond transactional thinking, engaging customers in collaborative, ongoing interactions to co-create value. They leverage deep insights to differentiate their value propositions.
+
+85. **What are the four main innovation strategies employed by "Forerunner" companies?**
+    1.  **Attribute-Based Innovation**: Redefining core assumptions to shift financial models from selling products to selling services.
+    2.  **Knowledge-Based Innovation**: Tapping into the power of data to enhance existing products/services or create new offerings.
+    3.  **Mobile Web-Based Innovation**: Transforming manual processes, physical products, or traditional services into mobile or web-based platforms.
+    4.  **Solution-Based Innovation**: Offering complementary services that address deeper customer needs or broader solutions [FTSSI, p. 53, 779, 786].
+
+86. **What are "Time-Based Value Models" within Attribute-Based Innovation?**
+    These models define product offerings based on the value of "time" to the customer, e.g., providing timely delivery or guaranteeing specific response times (like CEMEX promising cement delivery within 20 minutes).
+
+87. **What are "On-Demand Service Models" within Attribute-Based Innovation?**
+    These models redefine product offerings based on "anytime access" to the customer, increasing accessibility across various times, locations, and media (e.g., HP's MagCloud for on-demand magazine printing).
+
+88. **What are "Product Transformation Models" within Attribute-Based Innovation?**
+    These models redefine the product offering based on the fundamental end-user service need, addressing customer frustrations or underlying purposes beyond the physical product (e.g., SolarCity providing solar power as a service, not just selling panels).
+
+89. **What are "Data Aggregation Models" within Knowledge-Based Innovation?**
+    These models tap into the power of data by aggregating it to enhance existing value or create new service offerings, often addressing customer frustrations due to lack of information (e.g., Intuit's Mint.com aggregating personal finance data).
+
+90. **What are "User-Generated Innovation" models within Knowledge-Based Innovation?**
+    These models leverage user-generated content to enhance value or create new services, whether content is created automatically (e.g., usage patterns like Honda) or consciously (e.g., iStockphoto with amateur photographers).
+
+91. **What are "Digitize It Models" within Mobile Web-Based Innovation?**
+    These models transform taken-for-granted manual processes, physical products, or traditional services into mobile or web-based service platforms, aiming to save time, effort, or money (e.g., OpenTable for restaurant reservations).
+
+92. **What is "Platform as a Service" (PaaS)?**
+    PaaS is a tremendously powerful business model, considered a "game changer," that provides a platform for others to build upon. Companies like Apple (App Store) have led in this model.
+
+93. **What are "Experience Service Models" within Solution-Based Innovation?**
+    These models aim to deliver unsurpassed customer experiences that support a core goal, often by building value networks of merchants, suppliers, and technology providers (e.g., Visa's network for credit card transactions).
+
+94. **What are "Consultative Value Models" within Solution-Based Innovation?**
+    These models differentiate offerings through consulting services that add greater value and create customer loyalty, often leveraging engineering competencies to help customers reduce risk (e.g., FM Global providing property loss prevention consulting).
+
+95. **What are "Integrated Solution Models" within Solution-Based Innovation?**
+    These models provide comprehensive, holistic solutions that integrate multiple products and services, acting as a "one-stop shop" for complex customer needs (e.g., Herman Miller's Facility Services Group for furniture procurement).
+
+### Section 7: General Competencies and Evaluation of Business Models
+
+96. **Why is "reflection" important in the design process?**
+    Reflection helps designers critically evaluate their chosen path and methods. It involves experiencing, understanding, imagining continuation, and applying insights in subsequent design activities, fostering continuous learning.
+
+97. **What is the "What, So What, What's Next?" framework for reflection?**
+    This is a shorthand version of reflection:
+    *   **What?**: List observed events and items without explanation.
+    *   **So What?**: Select interesting items and unpack them with "Why did I notice it?" or "What was the effect?" to build understanding.
+    *   **And Now What?**: Determine the next action based on the considerations, whether it's a change in process or a reinforcement of successful approaches.
+
+98. **What is the "helicopter view" in design?**
+    The "helicopter view" is an important attribute of a designer, requiring the ability to step away from a specific problem's elaboration to zoom out and see the larger context or the "whole". This is indispensable for evaluating solutions for product properties, as everything is interconnected.
+
+99. **How can ICT contribute to improving a company's business model?**
+    ICT can contribute by:
+    *   Facilitating customer-related information gathering and diffusion.
+    *   Improving products and services faster by rapidly extracting feedback from users.
+    *   Opening new business opportunities and ameliorating customer satisfaction by exploiting customer information.
+    *   Providing richer information and innovative interaction methods to customers.
+    *   Enabling new distribution and communication channels.
+    *   Underpinning business models with computational tools for visualization, design, and comparison.
+
+100. **What is the significance of the "Business Model Modeling Language (BM2L)"?**
+    BM2L is an XML-based language developed to formalise the business model ontology, making it possible to describe and capture specific business models in a structured, computable way. It facilitates the generation of different documents, views, and analyses (e.g., for investors, managers, or for alignment with IT systems).

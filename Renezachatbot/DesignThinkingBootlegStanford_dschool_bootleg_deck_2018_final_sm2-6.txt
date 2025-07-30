@@ -1,0 +1,1456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I.	"" ,,	......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d.school at Stanford University
+
+Empathize
+Empathy is the foundation of human- centered design. The problems you're trying to solve are rarely your own, they're those of particular users. Build empathy for your users by learning their values.	To empathize, you:
+
+Observe.
+View users and their behavior in the context of their lives.
+
+Engage.
+Interact with and interview users through both scheduled and short 'intercept' encounters.
+
+Immerse.
+Wear your users' shoes. Experience what they experience for a mile or two.
+
+
+
+
+
+
+
+
+
+
+d.school at Stanford University	i.
+
+How to empathize:
+Observe how users interact with their environment. Capture quotes, behaviors and other notes that reflect their experience. Watching users gives you clues as to what they think and feel- what they need.
+
+Engage users directly-interact with and interview them. Engaging users reveals deeper insights into their beliefs and values.
+
+Immerse yourself in your users' experience. Find (or create if necessary) ways to immerse yourself in specific environments to understand first hand who you're designing for.
+
+The best solutions come from the best insights into human behavior. Discover the emotions that drive user behavior. Uncover user needs (which they may or may not be aware of). Identify the right
+users to design for. Use your insights to design innovative solutions.
+
+
+
+
+
+
+
+d.school at Stanford University
+
+ 			
+Define
+
+The define mode is when you unpack your empathy findings into needs and insights and scope a meaningful challenge. Based on your understanding of users and their environments, come up with an actionable problem statement: your Point Of View.
+
+More than simply defining the problem, your Point of View is a unique design vision that is framed by your specific users.
+
+Understanding the meaningful challenge at hand, and the user insights you can leverage, is fundamental to creating a successful solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d.school at Stanford University
+
+ii.
+
+How to define:
+The define mode explicitly expresses the problem you strive to address. In order to be truly generative, you must reframe your challenge based on new insights gained through your empathy work. This reframed Point of View, or problem statement, can then be used as a solution-generating springboard.
+
+A spectacular Point of View...	 Preserves emotion and the individual you're designing for.
+Includes strong language. Uses sensical wording.
+Includes a strong insight.	
+Generates lots of possibilities.
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+d.school at Stanford University	
+
+
+Ideate
+Ideate is the mode in which you generate radical  design  alternatives.  Ideation  is a process of "going wide" in terms of concepts and outcomes-a mode of "flaring" instead of "focus". The goal of ideation is to explore a wide solution space-both a large quantity and broad diversity
+of ideas. From this vast repository of ideas, you can build prototypes to test with users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d.school at Stanford University
+
+iii.
+
+How to ideate:
+You ideate in order to transition from identifying problems to exploring solutions for your users.
+
+Ideation is leveraged to:
+-Harness the collective perspectives and strengths of your team.
+-Step beyond obvious solutions and drive innovation.
+-Uncover unexpected areas of exploration.
+-Create fluency (volume) and flexibility (variety) in your innovation options.
+
+When ideating, your team needs to fluctuate between times of focus and flare. Idea generation is a moment to "go wide" while evaluation/selection of ideas is a time for narrowing-in.
+
+Curtailing "bad" behaviors, such as evaluating during idea generation,
+is very important-innovative concepts can often come from the most outlandish ideas.
+
+
+
+
+
+
+
+
+d.school at Stanford University
+
+			
+Prototype
+Prototyping gets ideas out of your head and into the world. A prototype can be anything that takes a physical
+form-a wall of post-its, a role-playing activity, an object. In early stages, keep prototypes inexpensive and low resolution to learn quickly and explore possibilities.
+
+
+	
+Prototypes are most successful when people (the design team, users, and others) can experience and interact with them. They're a great way to start a conversation. What you learn from interactions with prototypes drives deeper empathy and shapes successful solutions.
+
+
+
+
+
+
+
+
+
+
+
+How to prototype:
+Prototyping is often thought of as a way to test functionality, but it serves many other purposes.
+
+Empathy gaining.
+Prototyping deepens your understanding of users and the design space.
+Exploration.
+Develop multiple concepts to test in parallel.
+
+Testing.
+
+Create prototypes to test and refine solutions.
+
+		
+Inspiration.
+Inspire others by showcasing your vision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test
+Testing is your chance to gather feedback, refine solutions, and continue to learn about your users. The test
+mode is an iterative mode in which you place low-resolution prototypes in the appropriate context of your user's life. Prototype as if you know you're right, but test as if you know you're wrong.
+	
+	
+
+
+ 
+
+	
+	
+
+
+	
+
+
+
+			
+		
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+  	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+	
+
+
+
+	
+
+
+	
+
+ 
+	
+
+
+
+
+
+
+
+
+	
+
+How to test:
+Create authentic experiences for users to test your prototypes.
+
+Learn more about your user.
+Testing is another opportunity to build empathy through observation and engagement-often yielding unexpected insights.
+
+Refine your prototypes and solutions. Testing informs the next iterations of prototypes. Sometimes this means going back to the drawing board.
+
+
+
+
+Test and refine your Point of View. Testing may reveal that, not only did you get the solution wrong, but you also framed the problem incorrectly.
+
+	
+		
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+	 
+
+
+
+
+
+
+	
+
+
+	
+
+
+	
+
+	
+
+
+
+	
+
+
+
+
+	
+		
+
+
+
+	
+	
+	
+
+ 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Felix Talkin
+Assume a beginner's mindset
+You carry your own experiences, understanding, and expertise. Your unique perspective is an incredibly valuable asset to bring to any design challenge.
+At the same time, your viewpoint carries assumptions and personal beliefs. Your preconceived notions may, in fact, be misconceptions or stereotypes, and can limit the amount of real empathy you can build. Assume a beginner's mindset in order to put aside biases and approach
+a design challenge with fresh eyes.
+
+How to assume a beginner's mindset:
+Don't judge.
+Observe and engage users without the influence of value judgments on their actions,  circumstances,  decisions,
+or "issues."
+Question everything.
+Even (and especially) the things you think you already understand. Ask questions to learn about the world from the user's perspective.
+
+Be truly curious.
+Strive to assume a posture of wonder and curiosity, both in circumstances that seem either familiar or uncomfortable.
+
+Find patterns.
+Look for interesting threads and themes that emerge across user interactions.
+
+Listen.	Really.
+Ditch any agendas and let the scene soak into your psyche. Absorb what users say to you, and how they say it, without thinking about how you're going to respond.
+
+
+
+
+
+
+
+
+
+
+
+
+
+What? How? Why?
+What? How? Why? is a tool to help you reach deeper levels of observation. It's a simple scaffolding to move you from concrete observations of a particular situation to the more abstract emotions and motives at play behind the scenes.
+
+This is particularly powerful when analyzing photos that your team took in the field, both for synthesis purposes, and to direct your team to future areas of need-finding.
+
+How to use What? How? Why?
+Set-up.
+Divide a sheet into three sections: What?, How?, and Why?
+
+Start with concrete observations. What is the user doing in a situation or photograph? Notice and write down objective details. Don't make assumptions just yet.
+
+Move to understanding.
+How is the user doing what they're doing? Does it require effort? Do they appear rushed? Does the activity appear to be
+a negative or positive experience? Use phrases packed with adjectives.
+
+Step out on a limb of interpretation. Why is the user doing what they're doing in the particular way they're doing it? Make informed guesses regarding motivation and emotions.
+This step reveals assumptions you should test with users, and often uncovers unexpected insights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interview Preparation
+
+Jennifer Hennesy
+
+Time with users is precious so you have to make the most of it. You should definitely allow room for spontaneous user-guided conversations, but you should never abandon your responsibility to prepare for interviews. Especially when following up with users (after testing), it's essential to plan your discussions ahead of time. You may not get to every question you prepare, but you should come in with a plan for engagement.
+
+How to prepare for an interview:
+Brainstorm questions.
+Write down as many potential questions as your team can generate. Build
+on each other's ideas to flesh out meaningful subject areas.
+
+Identify and order themes.
+Identify themes or subject areas into which most questions fall. Then, determine the order of questions that will allow the conversation to flow most fluidly. This will decrease the potential for a scattershot interaction with users.
+
+Refine questions.
+Once you've grouped your questions,
+you may find redundancies, or questions that seem strangely out of place.
+Cut them. Also, be sure to include plenty of "why?" questions, plenty of "tell me about the last time you
+	?" questions, and plenty of questions directed at how the user FEELS. Remember, open ended questions allow for stories and stories lead to insights for design solutions.
+
+
+
+Interview for Empathy
+We interview to gain empathy. By
+
+Patrick Beaudouin
+
+interviewing users you will begin to better understand a person's behaviors, choices, and needs. We suggest interviewing in-person and in pairs so that one person can converse while the other captures.
+
+How to interview for empathy:
+Ask why.
+Even when you think you know the answer.
+Never say "usually" when asking a question.
+Instead, ask about a specific
+occurrence. "Tell me about the last
+time you 	."
+Encourage stories.
+Stories reveal how users think about the world.
+
+Look for inconsistencies.
+What users say and do can be different. These inconsistencies often hide interesting insights.
+
+Pay attention to nonverbal cues.
+Be aware of body language and emotions.
+Don't be afraid of silence.
+When you allow for silence, you give users time to reflect on their answers- which may lead to deeper responses.
+
+Ask questions neutrally and don't suggest answers.
+"What do you think about buying gifts
+for your spouse?" is better than "Don't you think shopping is great?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extreme Users
+
+Jennifer Hennesy
+
+As a designer, you engage users (people!) to understand their needs and gain insights into their lives. You also draw inspiration from their work-arounds and frameworks. When you speak with and observe extreme users, their amplified needs and work-arounds come to light.
+This helps reveal meaningful needs that may not pop when engaging with the middle of the bell curve. And the needs of extreme users often coincide with the needs of a wider population.
+
+How to engage with extreme users:
+Determine who's extreme.
+First identify the aspects of your design challenge you want to explore to an extreme. Then think of extreme users within those facets. If you're designing a grocery store, you might consider how groceries are gathered or how payment is made as aspects
+to explore. Honing in on gathering groceries, extreme users might include people who gather recyclables with shopping carts or product pullers for online buyers.
+
+Engage.
+Observe and interview extreme users just like other folks. Look for work- arounds (or other extreme behaviors) to spark inspiration and uncover insights.
+
+Look at the extreme in all of us.
+Look to extreme users to spur wild ideas. Then narrow in on what resonates with the primary users that you're designing for.
+
+
+
+Story Share- and-Capture
+
+Patrick Beaudouin
+
+After interviewing people, bring your team together to share stories that you heard. A story share serves a
+few purposes. First, it allows team members to get up to speed on what others gathered in the field. Even if everyone was present for the fieldwork, comparing how each person experienced it is valuable. Second, in listening and probing for more information, team members tend to draw out nuance and meaning that wasn't initially realized. This starts the synthesis process.
+
+How to story
+share-and-capture:
+Unpack observations and share stories that stick out from your team's empathy fieldwork. While each team member shares notes and user stories, others should headline quotes, surprises, and interesting tidbits-one headline per post-it.
+The post-its can be physically grouped and re-grouped on the board to illuminate themes and patterns.
+The end goal is to understand what's really going on with each user to discover who your users are and what they need in regard to your design space.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A journey map is a tool to dissect a process into its moving parts to
+illuminate areas of potential insights. Don't forget the details when gaining empathy and understanding for a user and their experience. Creating a journey map is an excellent way to systematically think about those detailed steps or milestones. Journey maps can be used for your own empathy work, or to communicate your findings to others.
+
+How to use a journey map:
+Choose a process to examine.
+For example, your user's morning breakfast routine. Then create a map of that process that captures every step. Organize the data in a way that makes sense: a timeline of events, a series of pictures, a stack of cards. You can create a journey map based on observation and interview, or a user can draw their own.
+
+Be comprehensive.
+Don't overlook the opening of window shades during the morning breakfast routine. What seems meaningless could be the nugget that develops into a stunning insight.
+
+Look for patterns and anomalies. Push yourself to connect individual events to a larger framework. It's often the pairing of an observation with prior knowledge that yields a meaningful insight.
+
+
+
+Powers of Ten
+
+Soleil Summer
+
+Powers of Ten is a reframing technique used as a synthesis or ideation method. It allows your design team to consider the challenge at hand through frames of various magnitudes.
+
+How to use Powers of Ten:
+Consider increasing and decreasing magnitudes of context to reveal connections and insights.
+
+Powers of ten for insight development. Imagine you're designing a checkout experience. You already observed
+that users read customer reviews before purchasing, and developed the insight that users value peer opinions when shopping. Now imagine the user
+is shopping for items over a wide magnitude of costs-from mints, to a bed, to a house. Does this alter user behavior? Probe for nuances in your insight. Note where it breaks down.
+
+Powers of ten for ideation.
+Add constraints that alter the magnitude of the solution space. "What if it had to cost more than a million dollars to implement?" "Or less than
+25 cents?" "What if it was larger than this room?" "Or smaller than a wallet?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A 2x2 matrix is a tool to scaffold information about users and your design space to reveal relationships. The hope is to uncover insights or areas to explore more deeply. A 2x2 matrix is also a great way to visually communicate a relationship you want to convey to others.
+
+How to use a 2x2 matrix:
+Draw a 2x2 matrix (x-axis and y-axis), pick a spectrum for each axis (opposites on either end), and plot items on the map. You can explore any group of things- products, motivations, users.
+You might place products on a matrix of perceived quality (low to high) versus use of natural materials (all-natural to all-synthetic). Where do groups form?
+Notice full or empty quadrants. Where does the assumed correlation break down?
+You may have to try various combinations of spectra to find one that's meaningful. Often the discussion spurred by filling in the matrix is more valuable than
+the map itself. You can also use a 2x2 matrix to create a competitive landscape. An empty quadrant may signal a market opportunity (or a very bad idea).
+
+
+
+
+
+
+Use why-how laddering to flesh out varying user needs and find a middle ground that's both meaningful and actionable.
+
+As a general rule, asking "why" yields abstract statements and asking "how" yields specific statements. Often times abstract statements are more meaningful, but not as actionable. The opposite is true of more specific statements.
+
+How to why-how ladder:
+Step 1
+Identify a few meaningful user needs and write them at the bottom of a piece of paper.
+
+Step 2
+Ladder up from that need, asking "why?" For example, why would a user "need to see a link between a product and the process that creates it?" because the user, "needs confidence that it won't harm their health by understanding its origin."
+
+Step 3
+Ask why again, and continue to ladder from that same need. At a certain point, you'll reach a very common, abstract need such as, "the need to be healthy." This is the top of the ladder.
+
+Step 4
+Climb back down the ladder asking "how?" This will give you ideas for how to address the needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Point of View framework helps outline your design challenge into an actionable problem statement so that you can begin brainstorming solutions. Most importantly, your POV anchors your design thinking project and helps you to articulate your challenge meaningfully.
+
+How to write a Point of View (POV) statement:
+After you've interpreted your user empathy interviews, try different ways of stating the problem.
+
+POV framework.
+Start by describing your user in colorful language, including pertinent details. Then, choose your favorite surprise/insight that represents
+the most powerful shift in your own perspective. Last, articulate what would be game-changing for your user, assuming your insight is correct.
+
+POV musts.
+* Make sure your POV flows sensically (so a stranger could comprehend it).
+* Specifies an insight that's focused on a specific user (rather than a demographic)
+* Articulates a game-changing direction, without dictating a particular solution.
+
+
+Jennifer Hennesy
+Design Guidelines
+Design guidelines, also known as design directives, are written statements that articulate a strategy for how you will solve your design challenge, independent of a specific solution. They translate your findings-user needs and insights- into actionable design directives.
+
+How to use design guidelines:
+You can translate your insights and observations into design guidelines by stating your findings in terms of solutions rather than observations about the user. For example, a user's
+"need to feel instrumental in creating a gift" becomes "involve the user in creating a gift."
+You can also work backwards from a potential solution to create design guidelines. Ask yourself what aspects of the solution resonates with
+users, and makes those aspects into guidelines/directives.
+Design guidelines should be independent of a solution-that is, they should
+be useful regardless of the design solution. You may know you're designing a gift product, but unsure if it's physical, digital, or experiential. The design guideline above ("involve the gift-giver in creating the final gift") is still helpful even though you don't yet know the ultimate design solution.
+
+
+
+"How Might We" Questions
+
+Jennifer Hennesy
+
+"How might we" (HMW) questions are short questions that launch ideation. They're broad enough to include a wide range of solutions but narrow enough to impose helpful boundaries.
+
+Between the too narrow "HMW create an ice cream cone that doesn't drip" and the
+too broad "HMW redesign dessert", is the properly scoped "HMW redesign ice cream to be more portable."
+
+How to write "how might we" (HMW) questions:
+Start with your design challenge and Point of View statement (see card #11). Then break down the larger challenge into smaller actionable bits and ask questions that open up the solution space.
+
+Challenge
+Redesign the airport waiting space.
+Point of View
+A frenzied mother of three rushes to her gate to find out her flight is delayed. She has to entertain her playful children to avoid irritating already-frustrated fellow passengers.
+
+How Might We
+Alleviate tension: HMW separate the kids from fellow passengers?
+Explore the opposite: HMW make the wait the most exciting part of the trip?
+Question an assumption: HMW remove wait time altogether?
+Create an analogy from need to context: HMW make the airport like a spa? Like a playground?
+Change a status quo: HMW make playful, loud kids less annoying?
+
+
+
+Stoke
+
+Felix Talkin
+
+Stoke activities loosen up and energize teams-both mentally and physically.
+Use stoke activities to wake up in the morning, launch a meeting, or begin a brainstorm. They should be brief and highly active.
+
+How to stoke:
+Category, category, out!
+Line folks up, name a category (breakfast cereals, vegetables, cars), and point
+at people in rapid succession, skipping around the group. The player pointed at must name something in the category. If they don't, everyone yells "Out!" and they're out for the rest of the round.
+
+Sound ball.
+Stand in a circle and throw an imaginary ball to each other. Make eye contact and make a noise as you throw it. The catcher must repeat the noise of the thrower and make a new noise as she throws to the next person. Try increasing the speed or adding a second ball.
+
+Yes, Let's!
+Everyone walk around the room randomly. One person voices an instruction: "let's act like we're at a cocktail party" or "let's act like there's no gravity." Everyone shouts back, "Yes, let's!" and acts it out. At anytime someone can yell the next instruction. The answer is always, "Yes, let's!"
+
+
+
+Brainstorming
+
+Patrick Beaudouin
+
+Brainstorming conjures tons of ideas all at once. A brainstorm is a distinct segment of time when you amp up the generative part of your brain and turn down the evaluative part. The intention is to leverage the collective thinking of the group. Brainstorming can be used throughout the design process: to plan empathy work, to assess products and services, and to come up with design solutions.
+
+How to brainstorm:
+Your team's sole goal is to generate as many ideas as possible, without judgment. Gather in front of a whiteboard and spend 15 to 30 minutes in high engagement "brainstorm mode."
+Be sure to capture every idea, regardless of your feelings about them. You can either assign a scribe to capture ideas as they're called out or go all-in, each person shares their ideas out loud and puts them on the
+board themself. Either way, use post-its and stick them up quickly.
+You can use How Might We questions
+to launch a brainstorm (see card #13). "How might we give each shopper a personal checkout experience?"
+
+
+
+Facilitate a brainstorm
+
+Patrick Beaudouin
+
+Good facilitation is key to a generative brainstorm. Brainstorming spawns many, wide-ranging (and sometimes left field) ideas. A good facilitator sets the
+stage for open, active, and constructive engagement.
+
+How to facilitate a brainstorm:
+Energy.
+As facilitator, it's your task to keep ideas flowing. Be sure to write a compelling question to kick off the brainstorm. If the team slows or gets
+stuck, add a variation to the prompt to shake things up (prepare options ahead of time).
+
+Constraints.
+Add solution constraints to spark new ideas. "What if it had to be round?" "How would superman do it?" Or create process constraints, such as shooting for 50 ideas in 20 minutes.
+
+Space.
+Be mindful of where you brainstorm. Find a room with lots of vertical work space. Make sure all participants are standing and have supplies in hand-post-its and
+a sharpie.
+
+
+Patrick Beaudouin
+Brainstorm selection
+Your brainstorm should generate many, wide-ranging ideas. That's the easy part.
+The hard part is selecting which ideas to act on. Brainstorm selection may be straight forward for some brainstorms (simply pick a few standout ideas), but selecting design solutions may take more deliberation.
+
+Don't pick just one and don't settle on safe choices. Select a range of ideas to carry forward into prototyping, aiming to preserve the breadth of solutions generated by the group.
+
+How to select brainstorm ideas:
+Don't narrow down ideas too fast. An implausible idea may spark a useful or meaningful insight. Hang onto ideas that excite, amuse, or intrigue the team. Consider these three selection techniques.
+
+Post-it voting.
+Each team member gets three votes. The post-its with the most marks get selected.
+
+Four categories.
+Elect one or two ideas within each category: the rational choice, the most likely to delight, the darling, and the long shot.
+
+Bingo.
+Pick one or two ideas that inspire a physical prototype, a digital prototype, and an experience prototype.
+If an idea is so far out there that it seems pointless to test, ask what attracted you to it, then test that aspect or integrate it into a new solution.
+
+
+Soleil Summer
+Impose Constraints
+It's a bit counterintuitive, yet imposing constraints (with intention) can actually increase creative potential.
+
+Try it:
+Think of as many silver things as you can in ten seconds.
+
+Now think of silver things in your kitchen.
+Which prompt sparked more ideas?
+
+How to impose constraints:
+It's important to be conscious of when and what constraints you impose.
+Imposing a constraint during idea generation is different than rejecting ideas due to preconceived notions about users. Consider these three constraint examples.
+
+Ideation.
+During a brainstorm, temporarily add a solution constraint. "What if it were made for babies?" "How would McDonald's do it?"
+
+Prototyping.
+Constrain materials to build quicker, lower resolution prototypes. Developing a checkout service? Prototype it with cardboard, post-its, and a sharpie.
+Designing soccer cleats? Your shoe, tape and thumb tacks. Or, impose solution constraints. How might you design it for blind users? Without plastic?
+
+Time.
+Constrain time to force output. Make two prototypes in an hour. Spend three hours with users by Friday.
+
+
+
+Prototype for Empathy
+
+Patrick Beaudouin
+
+When you're creating a prototype, consider the people who will be interacting with this object/experience. Develop the prototype or design the experience, specifically to gain empathy. You don't necessarily need to seek solutions when testing prototypes with users.
+
+In the same way a solution-driven prototype reveals new information about the idea you're testing, an empathy- seeking prototype helps you gain understanding about people and the space you're designing for.
+
+How to prototype for empathy:
+Prototype for empathy to dig deeper into user needs or probe an insight you're developing. You can create empathy prototypes to test with users or with your design team. Consider these examples.
+
+Sketch.
+Ask users to draw something and talk about it afterward. "Draw how you get to work."
+
+Play.
+Create a game to probe issues you want to explore. Use a simple card game to force users to make choices related to your design challenge.
+
+Simulate.
+Simulate an aspect of the user experience to better understand it yourself. If users garden while carrying a baby, put on a sling and carry ten pounds while gardening.
+
+
+Improvise to LifePatrick Beaudouin
+Teams often get stuck in "analysis paralysis" when deciding what to build for user testing. Improvising your idea to life is a tool to jump-start your team into action.
+
+How to improvise to life:
+Act it out, to figure it out. Quickly assign roles to the team to bring your concept to life. Pick someone to be the user. Someone else to play the "technology", or the solution you've envisioned. If you're designing a checkout experience, other roles might include shoppers in the store. Be sure
+to assign observers to watch and tag in when someone gets stuck.
+Really dive into it. Now and then, break the scene to discuss what's working, what's not, and to swap in observers (new "technology" role players should perform the function in a different
+way, to see how it affects the user's experience).
+
+
+Patrick Beaudouin
+Scenes/Props/Roles
+A great way to prepare to test your prototype in the field (with real users) is to use the Scenes/Props/Roles tool.
+This improv-inspired tool helps you understand where and how you will test your prototype, and the roles of each team member who join you in the field.
+
+How to use the scenes/ props/roles tool:
+Gather a team to test with you in the field. Then, figure out:
+
+Where should a user ideally encounter your concept?
+This is the "scene" that you want to test in, or, at the very least, recreate in your own space.
+What props do you need to build?
+These are the bare minimum physical artifacts necessary to suspend disbelief for the user and imagine that they're experiencing your concept.
+
+What roles do you need to play?
+Who's going to source and host users?
+Who's going to be actively engaged in the prototype (either directly
+interacting with the user, or performing some function in the background)? Who's going to observe and take notes?
+
+
+Soleil Summer
+Testing with Users
+Testing with users is a fundamental part of human-centered design. You test with users to not only refine your solution, but to better understand the people you're designing for. When you test prototypes, consider both what you can learn about your solution and what you can learn about your user-you can always use more empathy.
+
+How to test with users:
+Let your user experience the prototype.
+Show don't tell. Put your prototype in the user's hands (or your user in
+the prototype) and give only the basic context they need to understand what to do.
+
+Have them talk through their experience.
+Use prompts. "Tell me what you're
+thinking as you do this."
+Actively observe.
+Don't immediately "correct" your user. Watch how they use (and misuse) your prototype.
+
+Follow up with questions.
+This is often the most valuable part. "Show me why this would (not) work for you." "Can you tell me how this made you feel?" "Why?" Answer questions with
+questions. "Well, what do you think that button does?"
+
+
+Kim West
+Prototype to Decide
+During the design process, it can be unclear how to proceed forward,
+particularly when team members have mixed opinions. The best way to resolve team conflicts about design elements is to prototype and evaluate them with users.
+If a prototype is received well, it's
+a good sign it's worth pursuing further.
+
+How to prototype to decide:
+If the team is stuck between multiple opinions, build out multiple prototypes (for agility purposes, limit the team to 3-5 prototypes). Develop models of potential design candidates.
+Be sure to distill the design problem down to discrete elements, isolating the variable you're testing.
+Build as quickly and low-resolution as possible. Then test your prototypes on the team, outsider peers, or, better yet, test your prototypes on real users. Be sure to capture feedback.
+
+
+
+Identify a Variable
+
+Kim West
+
+Rather than prototype a complete mock- up of a solution, it's more productive to single out and test a specific variable. Identifying a variable not only saves time and money (you don't need to create all facets of a complex solution), it gives you the opportunity to test multiple prototypes, each varying in the one property. This encourages the user to make nuanced comparisons between prototypes and choose one option over another.
+
+How to identify a variable:
+Prototype with a purpose. Based on user needs and insights, identify one variable of your concept to flesh out and test. Then build a few iterations. Keep prototypes as low resolution as possible.
+Remember, a prototype doesn't have to be, or even look like the solution. You might want to know how heavy a device should be. Create prototypes of varied weight, without making them operable.
+You may want to find out if users prefer delivery versus pick up. Build boxes for each service, without filling them.
+By selecting one variable to test, you can bring resolution to that aspect of your concept and slide one step closer to a design solution.
+
+
+
+User-Driven Prototyping
+
+Patrick Beaudouin
+
+User-driven prototypes are created by users, rather than developed by you. When users create aspects of the design themselves, they reveal assumptions and desires that otherwise remain unmined.
+
+Your goal is not to integrate their ideas into your design, but to better understand their thinking and reveal undetected needs and insights.
+
+How to create a user- driven prototype:
+Strike a balance between how much you provide and how much you ask users to create. The ideal prototype should be scaffolded enough to spur generative thinking, but open enough to broaden user understanding.
+Some user-driven prototypes ask users to draw something ("draw going to
+the doctor"), make an object ("make a diaper bag with this paper and tape"), or compile artifacts ("tear
+out magazine pictures that depict your ideal mall shopping experience").
+If you were designing a website for users to create custom t-shirts, a traditional prototype might be a mockup of the website. A user-driven prototype might be a blank piece of paper for users to draw their own website. Scaffolding to get users going might include empty boxes on the page for them to fill in with content.
+
+
+
+
+Wizard of Oz Prototyping
+A wizard of Oz prototype fakes
+
+Jennifer Hennesy
+
+functionality that you want to test with users, saving you the time and money
+of actually creating it. Wizard of Oz prototypes often refer to prototypes of digital systems, in which the user thinks the response is computer-driven, when in fact it's human-controlled.
+
+How to create a Wizard of Oz prototype:
+Determine what you want to test.
+Then figure out how to fake that functionality and still give users an authentic experience.
+You can combine existing tools (tablets, email systems, Powerpoint) with human intervention to create the illusion of functionality.
+The company Aardvark needed to test user  reactions  to  their  online interface for connecting people with questions to qualified people with answers. Instead of coding, they used an instant messaging system and team members behind the scenes to physically route questions and answers to the right people.
+Wizard of Oz prototypes can be extended beyond the digital realm, to physical prototypes. You could prototype a vending machine without building the mechanics behind it-using a person hidden inside to deliver purchases.
+
+
+
+
+
++
+?
+
+
+
+Feedback Capture Matrix
+Feedback capture matrices facilitate real-time capture of feedback on presentations and prototypes. You can use a feedback capture matrix either to give feedback on progress within the design team or to capture user feedback. The matrix itself
+arranges thoughts and ideas into four categories for easy assessment.
+
+How to use a feedback capture matrix:
+Section off a blank page or whiteboard into quadrants. Draw a plus sign in the upper left quadrant, a delta sign in the upper right quadrant, a question mark in the lower left quadrant, and a light bulb in the lower right quadrant.
+Fill in the matrix as you give or receive feedback. Place things one likes or finds notable in the upper left (plus sign). Constructive criticism goes in the upper right (delta sign). Questions raised go in the lower left (question mark). And new ideas spurred go in the lower right (light bulb). If you're giving feedback, strive to give input in each quadrant (especially the upper two: "likes" and "wishes").
+
+
+
+Storytelling
+A well-told story-filled with rich
+
+Felix Talkin
+
+detail, surprising meaning, and universal emotion affects both the brain and the heart. Stories are a great way to connect people with ideas, at a human level. If you want to make an impression on your audience (teammates, clients, investors), tell a great user-centered story.
+
+How to tell stories:
+Follow the structure of a story spine to flesh out the narrative arc of your user-centered story:
+Once upon a time... And every day...
+Until one day... Because of that...
+And because of that... Until finally...
+And ever since that day... And the moral is...
+
+Remember, your user is the hero of your story, not your concept. Your concept contributes to the transformation of your character, and to the relief of dramatic tension, but it's not the main character.
+Once you've finished your story, remove the stems from the story spine prompts. Don't say "once upon a time," for example, when you tell your story to an actual audience. Just like scaffolding for painters, the story spine prompts get removed once they serve their purpose. What remains should be a believable, compelling user story.
+
+Story spine developed  by Kenn  Adams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I Like, I Wish, What If
+As a designer, you must rely on personal communication and, particularly, feedback, during design work. Colleagues give feedback on design frameworks.
+Users give feedback on solution concepts. I like, I wish, What if (IL/IW/WI) is a simple tool to encourage open feedback.
+
+How to use I like, I wish, what if:
+IL/IW/WI is almost too simple to write down, but it's too useful not to mention. Meet as a group. Team
+members chime in by expressing "likes," "wishes," or "what ifs" as succinct headlines.
+"I like how we broke our team into pairs." "I wish we had discussed our plan before testing." "What if we tried one more prototype?"
+Share dozens of headlines in a session (be sure to pick someone to capture). You don't need to respond to every one. Let the team decide which topics to discuss as they arise.
+
+
+Patrick Beaudouin
+Empathetic Data
+The difficulty with many new ideas is that they're hard to empirically
+prove, leaving key decision makers no basis for comparison. The good news is, designers can create data through simple prototyping.
+
+If you're struggling to get buy-in from key stakeholders due to lack of hard data, consider building an empathetic data set, derived from real user prototype testing.
+
+How to gather empathetic data:
+Take your prototype (it doesn't need to be perfect, just usable) and place it in a context where your users currently experience your product or service.
+Bonus points if you can find a setting that allows users to test the current offering and the new offering.
+Extra bonus points if that setting is low pressure, so customers feel comfortable giving open and honest
+feedback. For example, d.school alum, Bill Pacheco, tested exercise machine prototypes in a real gym with actual users.
+During your test, capture usage counts, quotes, and reactions via notes or video. Create a sizable data sample to support and refine your prototype.
+Pro tip: bring your decision makers along to watch and interact with users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review Your Portfolio
+Sustaining/incremental innovations and disruptive innovations are what make up your innovation portfolio. Reviewing where various concepts fall in the portfolio helps you understand where to focus your energy.
+
+How to review your portfolio:
+Create a simple 2x2 matrix. Plot "depth of insight" on the x-axis, from shallow to deep. Shallow insights are
+things the team knew before the project started. Deep insights expose the problem in a brand new light.
+
+Plot "disruptiveness of concept" on the y-axis, from incremental to
+breakthrough. Incremental concepts are simple builds on existing products or services (or things the organization has tried before). Breakthrough concepts have never been tried-they might even be new to the industry.
+
+It's easier to move a deep insight up to breakthrough territory than it is to move a shallow insight. When reviewing your portfolio, ask "which
+concepts address problems we've never considered?" These concepts are easier to "Yes, And!" into breakthrough territory.
+
+
+
+Empathy Probe
+
+Patrick Beaudouin
+
+It can be tricky to elicit emotion-
+rich conversations with users (sometimes total strangers!). It can also be tough to decide where to direct early empathy interviews. Empathy probes help reduce friction by giving users something to
+do and create space for them to speak their mind. It also gives you plenty of opportunity to observe users before choosing where to engage more deeply.
+
+How to conduct an empathy probe:
+Create a probe.
+A probe is a prompt that users engage with while you interview them. We often create probes in the form of a set of cards: one question card and 7 answer cards, that the user sorts through. A probe sparks interaction and provokes storytelling on the part of the user.
+
+Engage users.
+Ask them to share their thoughts aloud.
+If your probe asks users to consider a particular experience, find out the exact experience they're considering
+before they begin the sorting activity.
+Follow up on interesting comments, movements, and pauses.
+Always start with what you noticed. "You
+mentioned that you 	. Could you tell
+me a little more about that?" "I noticed
+when you read that card, you said 	.
+What were you thinking?" Pay special attention to rich emotional material.
+
+Seek stories relevant to the emotions you uncover.
+Spend the majority of your time here.
+Steer stories toward specificity. You need specifics to fuel your design work. "Is there a specific time you can remember feeling / doing that?"
+
+
+
+Describe Your Concept
+Many brainstorms end with a team
+
+Jennifer Hennesy
+
+realizing they don't fully understand the idea they selected to act on. The Describe Your Concept tool helps you distill down what resonated with the team from the original concept, and understand exactly what they need to create during prototyping.
+
+How to describe your concept:
+Select an idea from your brainstorm and flesh out the concept while it's fresh in your team's mind. What would you name it? Who is it for? What does it accomplish for them? How does it accomplish this? Here, your team can really specify how your product or
+service does what it does. Make it your goal to articulate a single function that your concept performs in order to achieve the desired user impact.
+Pro tip: If your concept either
+1) doesn't relate to your user or
+2) doesn't bring you to a game-changing idea, don't worry, you've made a common mistake. Revisit your brainstorm and pick another idea that's more user- centric.
+
+
+Jennifer Hennesy
+Surprise-to-Insights Leap
+Design teams often have trouble articulating the "nuggets" they discover during empathy work. The Surprise-to-Insights leap helps teams get out of their heads and explore various interpretations of surprising user behavior.
+
+How to make the surprise- to-insights leap:
+Place a few surprising observations from your empathy work on the left hand side of the board. Pick one to start and ask your team to interpret the behavior by finishing the sentence,
+"I wonder if this means that the user
+	." Everyone writes down their interpretation, then reads aloud (one by one), and places it on the right hand side of the board, across from the surprise.
+If an interpretation sparks new ideas from the team, feel free to craft more interpretations and add them to the board. Continue the same process with the rest of your surprising observations.
+
+
+Patrick Beaudouin
+Yes, And! Brainstorm
+Brainstorming can often feel frenetic and irrational. It can also leave less extroverted folks feeling left out. The Yes, And! brainstorm provides a little structure for guiding brainstorms, and creating space for each team member to contribute and build on others' ideas.
+
+How to conduct a Yes, And! brainstorm:
+Write down a game-changing idea on a whiteboard. ("It would be game changing
+to 	.") Give team members a couple
+minutes to write down (on a post-it) one novel approach to accomplishing the "game changer". Have them briefly share their novel ideas and place them on the board.
+Then lead the team through a series of "Yes, And!" brainstorms for each
+idea. Ask team members to build on the ideas by saying "yes, and" before they contribute. Make sure every team member builds on the idea before moving on to the next one.
+If some of the builds spark other ideas, feel free to capture those too. Repeat the process until everyone's idea has been built upon by everyone else at least once.
+
+
+Kim West
+Analogous Empathy
+When teams (particularly intact teams) struggle to innovate it's often because they neglect to look outside their organization for inspiration. Unlike competitive research, analogies push teams to consider radically different industries and offerings to apply
+a fresh perspective on a familiar challenge.
+
+How to use analogies:
+Identify and explore specific aspects of your design challenge in new ways!
+Gather a team to talk about what aspects of your challenge you'd like to explore further. For example,
+if you're designing for hospital technicians, and you're interested in understanding extreme time pressures or high stakes decisions, brainstorm spaces that are tangential to the design challenge that share enough attributes where there may be insight cross-over.
+For the hospital challenge you might explore extreme time pressures at an airport, or for high stakes decisions, a police training academy or fire station. Observe and interview people in these analogous locations.
+Make an analogous inspiration board.
+Saturate a space with photos and quotes from your analogous space; this can help the team share inspiration, or bring in the analogous insight later in the process.
+
+
+
+Shooting Video
+Video is a powerful medium for
+
+Patrick Beaudouin
+
+communicating ideas, insights and stories. The frame is your medium-be aggressive. If it's not in the frame, it doesn't exist.
+
+How to shoot video:
+1. Know your intention. What's the one thing you want your audience to leave with?
+2. Get a tight frame of your subject at all times.
+3. Be conscious of light sources and shadows on your subject.
+4. Overshoot! Get more than you think you need. Editing is where the storytelling begins. Remember to get longer takes. They allow you some wiggle room for transitions.
+5. Keep mic close to the subject (boom mic preferred).
+6. Point mic away from undesired noise.
+
+
+
+Editing Video
+
+Patrick Beaudouin
+
+At its core, editing is storytelling. The medium where your narrative comes to life. Being meticulous in your editing is crucial to delivering the best, clearest narrative.
+
+How to edit video:
+To edit quickly and create compelling videos, follow these guidelines:
+During the process, ensure an audience will understand your visual narrative. Remember, it's better to be clear than clever.
+Make an initial rough cut of the whole film. Block out the beginning, middle and end.
+Kill the darlings. Remain focused on what will tell your story best.
+What you hear is equally important to what you see. Ensure any music compliments your visuals and doesn't distract.
+Before exporting your video, know where it will live. If to be played off your computer, use minimal compression to ensure quality. For social media or video hosting sites, consult their listed guidelines.
+
+
+
+
+
+
+:  :·,·
+, ..
+
+
+
+..:. 1z,:,,1;j,,,,, · ··-'•:·
+
+....·.' l/1!I,,,.'1I 'II 'l,	, .. ' .. /. ' .. ,;·/1.·I(,
+
+f/.,..•"'. .
+
+. .' . I 'I	I
+
+I ,I ;','  ,' •	I ·' .. • • :-	' •
+
+41	t	,	,,,,,·:,·:  ,-:;•,.·  ..	r1;,·
+-.	.; j'·• • :• ·' I I I I : : •. • I,· / • ·'·:. :. . ,-; I :
+• •' •· \ .1 ;	:	I	!  ;  I l  . .J; 11 •  I ,;•.. 1 1 : '5°  ! •
+
+•••... I ·: •\•II ,,(,' •... -..: ··.• '. ,...•.' . ..
+
+.-	.,
+
+: : .  :'	! ..·/ l ,' i"/,: :./ .,;·.	. ..
+
+, ,· .,·
+
+
+I  I I
+
+: • .	; .•  I. •' ,·
+
+.,..
+
+; ....
+I•
+
+/.'' ,.
+
+'	: .'..
+I •
+
+
+
+
+
+1-lASSO PLATTNER	1  •  •
+Institute of Design at Stanfor.d..
+
+Many thanks to the early Bootleg designers including: Dave Baggeroer, Thomas Both, Scott Doorley, Corey Ford, Erica Estrada, Caroline O'Connor,
+Lia Ramirez, Jeremy Utley, and Scott Witthoft.
+
+Bootleg 2018 written and produced by: Scott Doorley, Sarah Holcomb, Perry Klebahn, Kathryn Segovia, and Jeremy Utley.
+Photography by: Patrick Beaudouin
+
+Illustrations by: Jennifer Hennesy, Soleil Summer, Felix Talkin and Kim West.
+Graphic design and Art direction:
+Jennifer  Hennesy
+Copy writing and editing: Eli Elbogen
+
+Typefaces used: Styrene, Commercial Type and Vulf Mono, OHno Type Co.
+Special edition cover printed by: All Gold
+
+Cards Printed by: Greener Printer on 100% recycled paper with ecological inks.
+*****
+Yes, And! special thanks to all of YOU for utilizing and providing inspiration for our design! Now go play responsibly!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
