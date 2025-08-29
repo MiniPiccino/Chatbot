@@ -6,13 +6,16 @@ from PIL import Image, ImageEnhance
 import time
 import json
 import requests
-from transformers import pipeline
 import base64
 from dotenv import load_dotenv
 import os
 import PyPDF2
 import chromadb
+from chromadb.utils import embedding_functions
 import asyncio
+from huggingface_hub import InferenceClient
+from qdrant_client import QdrantClient
+from sentence_transformers import SentenceTransformer
 load_dotenv() 
 
 try:
@@ -34,12 +37,9 @@ def main():
 
     # Model selection
     MODEL_OPTIONS = [
-        "OpenAI GPT-4o (cloud)",
+        "meta-llama",
         "DeepSeek R1 (cloud)", 
-        "HuggingFace DialoGPT (cloud)",
-        "GPT2 (local)",
-        "DistilGPT2 (local)",
-        "Llama3 (local)"
+        "DeepSeek V3",
     ]
     selected_model = st.sidebar.selectbox("Select Model:", MODEL_OPTIONS, index=1)
 
@@ -56,8 +56,29 @@ def main():
 
     #     # Add to ChromaDB (if not already added)
     #     add_uploaded_doc_to_chromadb(doc_text)
-    st.sidebar.success("Using preloaded ChromaDB collection: 'poslovniModeli'")
+    st.sidebar.success("Using preloaded QDrant collection: 'poslovniModeli'")
 
+    @st.cache_resource
+    def _embedder():
+        return SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
+    @st.cache_resource
+    def _qdrant():
+        url = os.getenv("QDRANT_URL")
+        key = os.getenv("QDRANT_API_KEY")
+        coll= os.getenv("QDRANT_COLLECTION", "poslovniModeli")
+        if not url or not key:
+            raise RuntimeError("QDRANT_URL / QDRANT_API_KEY missing.")
+        return QdrantClient(url=url, api_key=key, timeout=60), coll
+
+    def get_qdrant_context(query: str, top_k: int = 3) -> str:
+        client, coll = _qdrant()
+        vec = _embedder().encode(query).tolist()
+        hits = client.search(collection_name=coll, query_vector=vec, limit=top_k)
+        if not hits:
+            return ""
+        hits = sorted(hits, key=lambda h: h.score, reverse=True)
+        return "\n".join((h.payload or {}).get("text", "") for h in hits if (h.payload or {}).get("text"))
     # Chat interface
     if "history" not in st.session_state:
         st.session_state.history = []
@@ -66,10 +87,13 @@ def main():
     #if chat_input and doc_text:
     if chat_input:
         # Get relevant context from ChromaDB
-        chromadb_context = get_chromadb_context(chat_input, top_k=3)
+        chromadb_context = get_qdrant_context(chat_input, top_k=3)
         # Build prompt
         prompt = (
             f"Use the following context to answer the user's question:\n\n"
+            f"Please use only information from the documents and do not give the whole answer to questions immediatelly, but rather ask few questions before giving specific answer\n\n"
+            f"i want more questions but divided in more sections, such as asking one question and waiting for the answer of the user. It should be conversational.\n\n"
+            f"Please give some ideas, not only ask me for new ones.\n\n"
             f"{chromadb_context}\n\n"
             f"User question: {chat_input}\n"
             f"Answer:"
@@ -85,13 +109,14 @@ def main():
         with st.chat_message(message["role"]):
             st.write(message["content"])
 
+
 # Helper: Add uploaded doc to ChromaDB
 def add_uploaded_doc_to_chromadb(doc_text):
     import chromadb
     import asyncio
     async def _add():
-        chroma_client = await chromadb.AsyncHttpClient()
-        collection = await chroma_client.get_or_create_collection(name="poslovniModeli")
+        client = chromadb.PersistentClient(path="path/to/db")
+        collection = client.get_or_create_collection(name="poslovniModeli")
         chunk_size = 1000
         overlap = 100
         chunks = []
@@ -111,7 +136,11 @@ def add_uploaded_doc_to_chromadb(doc_text):
 
 def get_top_chunks(results, top_k=3):
     # Get the top_k most relevant chunks (lowest distances)
+    if not results or not results.get("documents") or not results["documents"]:
+        return ""
     docs = results['documents'][0]
+    if not results["documents"]:
+        return ""
     distances = results['distances'][0]
     # Pair and sort by distance
     sorted_chunks = sorted(zip(docs, distances), key=lambda x: x[1])
@@ -152,18 +181,22 @@ def extract_pdf_text(uploaded_file):
         text += page.extract_text() or ""
     return text
 
+# Helper: Load HuggingFace pipeline
+def get_hf_pipeline(model_name):
+    from transformers import pipeline
+    return pipeline("text-generation", model=model_name)
+
 # Helper: Get model response
 def get_model_response(prompt, model_choice):
     if model_choice == "GPT2 (local)":
         hf_chatbot = get_hf_pipeline("gpt2")
         result = hf_chatbot(prompt)
         return result[0]['generated_text'] if result and 'generated_text' in result[0] else "No response."
-    # Add other model logic as needed...
     elif model_choice == "DeepSeek R1 (cloud)":
         client = OpenAI(
             base_url="https://openrouter.ai/api/v1",
             api_key=os.getenv("OPENROUTER_API_KEY"),
-        )
+        ) 
         try:
             completion = client.chat.completions.create(
                 model="deepseek/deepseek-r1-0528:free",
@@ -174,6 +207,56 @@ def get_model_response(prompt, model_choice):
             return completion.choices[0].message.content
         except Exception as e:
             return f"DeepSeek error: {str(e)}"
+    # elif model_choice == "DeepSeek V3":
+    #     try:
+    #         client = InferenceClient(token=os.getenv("HUGGINGFACE_TOKEN"))
+    #         response = client.text_generation(
+    #             model="deepseek-ai/deepseek-coder-6.7b-base",
+    #             prompt=prompt,
+    #             max_new_tokens=512,
+    #             temperature=0.7,
+    #             repetition_penalty=1.05,
+    #             do_sample=True,
+    #             return_full_text=False,
+    #         )
+    #         return (response or "").strip()
+    #     except Exception as e:
+    #         return f"DeepSeek V3 error: {str(e)}"
+    elif model_choice == "meta-llama":
+        try:
+            client = InferenceClient(
+                provider="cerebras",
+                api_key=os.environ["HUGGINGFACE_TOKEN"],
+            )
+
+            messages = [
+            {"role": "system", "content": "You are a helpful consultant and be formal. Use the provided ChromaDB context when relevant; if context is insufficient, ask a brief clarifying question before answering."},
+            {"role": "user", "content": prompt},
+            ]
+
+            # Try new HF chat API (>=0.23)
+            try:
+                resp = client.chat.completions.create(
+                    model="meta-llama/Llama-3.1-8B-Instruct",
+                    messages=messages,
+                    max_tokens=1024,
+                    temperature=0.7,
+                )
+                msg = resp.choices[0].message
+                text = msg["content"] if isinstance(msg, dict) else getattr(msg, "content", "")
+            except AttributeError:
+                # Fallback to legacy HF chat API
+                resp = client.chat_completion(
+                    model="meta-llama/Llama-3.1-8B-Instruct",
+                    messages=messages,
+                    max_tokens=1024,
+                    temperature=0.7,
+                )
+                text = (resp.get("choices", [{}])[0].get("message", {}) or {}).get("content", "")
+
+            return (text or "").strip() or "meta-llama returned empty content."
+        except Exception as e:
+            return f"meta-llama error: {str(e)}"
     return "Model not implemented."
 
 if __name__ == "__main__":
