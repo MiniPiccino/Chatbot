@@ -58,7 +58,7 @@ def _ping_qdrant_rest() -> tuple[bool, str]:
     #url = os.getenv("QDRANT_URL", "")
     url = st.secrets["QDRANT_URL"]
     #key = os.getenv("QDRANT_API_KEY", "")
-    key = st.secrets["QDRANT_AP_KEY"]
+    key = st.secrets["QDRANT_API_KEY"]
     if not url:
         return False, "QDRANT_URL not set."
     try:
