@@ -55,8 +55,10 @@ def _embedder():
 
 # --- REST ping like curl ---
 def _ping_qdrant_rest() -> tuple[bool, str]:
-    url = os.getenv("QDRANT_URL", "")
-    key = os.getenv("QDRANT_API_KEY", "")
+    #url = os.getenv("QDRANT_URL", "")
+    url = st.secrets["QDRANT_URL"]
+    #key = os.getenv("QDRANT_API_KEY", "")
+    key = st.secrets["QDRANT_AP_KEY"]
     if not url:
         return False, "QDRANT_URL not set."
     try:
@@ -71,8 +73,10 @@ def _ping_qdrant_rest() -> tuple[bool, str]:
 
 
 def _mk_qdrant_client_from_url():
-    raw_url = os.getenv("QDRANT_URL")
-    api_key = os.getenv("QDRANT_API_KEY")
+    #raw_url = os.getenv("QDRANT_URL")
+    raw_url = st.secrets["QDRANT_URL"]
+    #api_key = os.getenv("QDRANT_API_KEY")
+    api_key = st.secrets["QDRANT_API_KEY"]
     if not raw_url:
         raise RuntimeError("QDRANT_URL is not set.")
     u = urllib.parse.urlparse(raw_url)
@@ -90,7 +94,8 @@ def _mk_qdrant_client_from_url():
 
 @st.cache_resource(show_spinner=False)
 def _qdrant() -> Tuple[QdrantClient, str, int]:
-    coll = os.getenv("QDRANT_COLLECTION", "poslovniModeli")
+    #coll = os.getenv("QDRANT_COLLECTION", "poslovniModeli")
+    coll = st.secrets["QDRANT_COLLECTION"]
     client, host, port, ipv4s = _mk_qdrant_client_from_url()
     try:
         client.get_collections()
@@ -116,7 +121,7 @@ def _qdrant() -> Tuple[QdrantClient, str, int]:
 
 def main():
     st.set_page_config(page_title="Document Chatbot", page_icon="💬", layout="wide")
-    st.title("📄→🧠 Document Chatbot (Qdrant)")
+    st.title("Document Chatbot (Qdrant)")
     st.caption("Upload PDF/TXT. We embed, store in Qdrant Cloud, and chat over your docs.")
 
     MODEL_OPTIONS = ["HF Pro Models", "HF Third-Party Providers", "DeepSeek R1 (cloud)", "Local/Offline"]
@@ -124,8 +129,10 @@ def main():
         selected_model = st.selectbox("Select model", MODEL_OPTIONS, index=0)
         st.divider()
         st.subheader("Vector DB")
-        q_url = os.getenv("QDRANT_URL")
-        q_coll = os.getenv("QDRANT_COLLECTION", "poslovniModeli")
+        #q_url = os.getenv("QDRANT_URL")
+        q_url = st.secrets["QDRANT_URL"]
+        #q_coll = os.getenv("QDRANT_COLLECTION", "poslovniModeli")
+        q_coll = st.secrets["QDRANT_COLLECTION"]
 
         ok_rest, msg_rest = _ping_qdrant_rest()
         if ok_rest:
@@ -161,7 +168,7 @@ def main():
         st.stop()
 
     # Upload & ingest
-    st.subheader("1) Upload your documents")
+    st.subheader("Upload your documents")
     uploaded_files = st.file_uploader("Drop PDFs or TXTs here", type=["pdf", "txt"], accept_multiple_files=True)
     if uploaded_files:
         with st.spinner("Embedding and uploading to Qdrant..."):
