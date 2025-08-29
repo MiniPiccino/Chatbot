@@ -299,10 +299,7 @@ def get_model_response(prompt: str, model_choice: str) -> str:
             
             # Try chat completion with popular models that support it
             chat_models = [
-                "microsoft/DialoGPT-medium",
-                "HuggingFaceH4/zephyr-7b-beta",
-                "mistralai/Mistral-7B-Instruct-v0.1",  # older version or valid?
-                "microsoft/DialoGPT-large",
+                "meta-llama/Llama-3.1-8B-Instruct"
                 ]
             
             for model_id in chat_models:
