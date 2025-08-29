@@ -299,7 +299,7 @@ def get_model_response(prompt: str, model_choice: str) -> str:
             
             # Try chat completion with popular models that support it
             chat_models = [
-                "meta-llama/Llama-3.1-8B-Instruct"
+                "HuggingFaceTB/SmolLM3-3B"
                 ]
             
             for model_id in chat_models:
