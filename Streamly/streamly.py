@@ -270,6 +270,7 @@ def build_prompt(user_question: str, context: str) -> str:
         f"Please use only information from the documents and do not give the whole answer to questions immediatelly, but rather ask few questions before giving specific answer\n\n"
         f"I want more questions but divided in more sections, such as asking one question and waiting for the answer of the user. It should be conversational.\n\n"
         f"Please give some ideas, not only ask me for new ones.\n\n"
+        f"Please answer without showing your internal thought process or meta-comments like <think>.\n\n"
         f"Context:\n{context or '<none>'}\n\n"
         f"User question: {user_question}\n"
         "Answer:"
