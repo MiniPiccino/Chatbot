@@ -124,7 +124,7 @@ def main():
     st.title("Document Chatbot (Qdrant)")
     st.caption("Upload PDF/TXT. We embed, store in Qdrant Cloud, and chat over your docs.")
 
-    MODEL_OPTIONS = ["HF Pro Models", "HF Standard Models", "DeepSeek R1 (cloud)", "Local/Offline"]
+    MODEL_OPTIONS = ["HF Pro Models", "HF Standard Models", "DeepSeek R1 (cloud)"]
     with st.sidebar:
         selected_model = st.selectbox("Select model", MODEL_OPTIONS, index=0)
         st.divider()
@@ -268,7 +268,7 @@ def build_prompt(user_question: str, context: str) -> str:
     return (
         f"Use the following context to answer the user's question:\n\n"
         f"Please use only information from the documents and do not give the whole answer to questions immediatelly, but rather ask few questions before giving specific answer\n\n"
-        f"i want more questions but divided in more sections, such as asking one question and waiting for the answer of the user. It should be conversational.\n\n"
+        f"I want more questions but divided in more sections, such as asking one question and waiting for the answer of the user. It should be conversational.\n\n"
         f"Please give some ideas, not only ask me for new ones.\n\n"
         f"Context:\n{context or '<none>'}\n\n"
         f"User question: {user_question}\n"
@@ -426,8 +426,8 @@ def get_model_response(prompt: str, model_choice: str) -> str:
 
         return "All HF standard models failed."
 
-    else:
-        return "Model choice is not HF Standard Models."
+    # else:
+    #     return "Model choice is not HF Standard Models."
 
     # --- DeepSeek via OpenRouter (backup option) ---
     if model_choice == "DeepSeek R1 (cloud)":
@@ -450,28 +450,28 @@ def get_model_response(prompt: str, model_choice: str) -> str:
         except Exception as e:
             return f"DeepSeek R1 error: {e}"
 
-    # --- Local/Offline (basic response) ---
-    if model_choice == "Local/Offline":
-        # Simple pattern-based responses for when no API is available
-        context_lines = prompt.split('\n')
-        context_text = ""
-        for line in context_lines:
-            if "Context:" in line:
-                idx = context_lines.index(line)
-                context_text = '\n'.join(context_lines[idx+1:])
-                break
+    # # --- Local/Offline (basic response) ---
+    # if model_choice == "Local/Offline":
+    #     # Simple pattern-based responses for when no API is available
+    #     context_lines = prompt.split('\n')
+    #     context_text = ""
+    #     for line in context_lines:
+    #         if "Context:" in line:
+    #             idx = context_lines.index(line)
+    #             context_text = '\n'.join(context_lines[idx+1:])
+    #             break
         
-        if "no context" in context_text.lower() or len(context_text.strip()) < 10:
-            return "I don't have enough context from your uploaded documents to answer this question. Could you please upload some relevant documents first?"
+    #     if "no context" in context_text.lower() or len(context_text.strip()) < 10:
+    #         return "I don't have enough context from your uploaded documents to answer this question. Could you please upload some relevant documents first?"
         
-        # Extract key information from context
-        lines = [line.strip() for line in context_text.split('\n') if line.strip() and not line.startswith('[score=')]
-        if lines:
-            return f"Based on your uploaded documents: {' '.join(lines[:3])}... Please note this is a simplified response. For better answers, configure HF Pro or other AI model APIs."
+    #     # Extract key information from context
+    #     lines = [line.strip() for line in context_text.split('\n') if line.strip() and not line.startswith('[score=')]
+    #     if lines:
+    #         return f"Based on your uploaded documents: {' '.join(lines[:3])}... Please note this is a simplified response. For better answers, configure HF Pro or other AI model APIs."
         
-        return "No relevant information found in uploaded documents for your question."
+    #     return "No relevant information found in uploaded documents for your question."
 
-    return "Model not implemented."
+    # return "Model not implemented."
 
 if __name__ == "__main__":
     main()
