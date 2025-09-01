@@ -124,7 +124,7 @@ def main():
     st.title("Document Chatbot (Qdrant)")
     st.caption("Upload PDF/TXT. We embed, store in Qdrant Cloud, and chat over your docs.")
 
-    MODEL_OPTIONS = ["HF Pro Models", "HF Third-Party Providers", "DeepSeek R1 (cloud)", "Local/Offline"]
+    MODEL_OPTIONS = ["HF Pro Models", "HF Standard Models", "DeepSeek R1 (cloud)", "Local/Offline"]
     with st.sidebar:
         selected_model = st.selectbox("Select model", MODEL_OPTIONS, index=0)
         st.divider()
