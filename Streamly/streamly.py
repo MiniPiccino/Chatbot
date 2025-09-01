@@ -369,15 +369,19 @@ def get_model_response(prompt: str, model_choice: str) -> str:
     # --- Hugging Face with Third-Party Providers (Latest feature) ---
     if model_choice == "HF Standard Models":
         hf_token = os.environ.get("HUGGINGFACE_TOKEN")
-        
+
+        if not hf_token:
+            return "HUGGINGFACE_TOKEN environment variable is not set."
+
         try:
-            # Try using third-party providers through HF (new feature)
+            # List of third-party providers and respective models
             providers_to_try = [
                 ("together", "meta-llama/Llama-3.2-3B-Instruct"),
                 ("fireworks", "accounts/fireworks/models/llama-v3p1-8b-instruct"),
                 ("replicate", "meta/llama-2-7b-chat"),
             ]
-            
+
+            # Try each provider sequentially
             for provider, model_id in providers_to_try:
                 try:
                     client = InferenceClient(provider=provider, token=hf_token)
@@ -390,14 +394,15 @@ def get_model_response(prompt: str, model_choice: str) -> str:
                         stream=False
                     )
                     return response.choices[0].message.content.strip()
+
                 except Exception as e:
                     logging.info(f"Provider {provider} failed: {e}")
                     continue
-            
-            # Fallback to basic HF models
+
+            # Fallback to basic Hugging Face models without provider param
             client = InferenceClient(token=hf_token)
             basic_models = ["gpt2", "distilgpt2", "gpt2-medium"]
-            
+
             for model_id in basic_models:
                 try:
                     response = client.text_generation(
@@ -409,18 +414,20 @@ def get_model_response(prompt: str, model_choice: str) -> str:
                         stream=False,
                         return_full_text=False
                     )
-                    result = response.strip() if response else ""
-                    if result:
-                        return result
-                except Exception as e:
+                    if response:
+                        return response.strip()
+                except Exception:
                     continue
-                    
+
         except Exception as e:
             if "unexpected keyword argument 'provider'" in str(e):
                 return "Please upgrade huggingface_hub: pip install --upgrade huggingface_hub"
             return f"HF Standard error: {e}"
-        
+
         return "All HF standard models failed."
+
+    else:
+        return "Model choice is not HF Standard Models."
 
     # --- DeepSeek via OpenRouter (backup option) ---
     if model_choice == "DeepSeek R1 (cloud)":
